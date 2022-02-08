@@ -182,6 +182,7 @@ body {
 
 .btn--outline:link,
 .btn--outline:visited {
+  color: #333;
   background-color: #fff;
 }
 
