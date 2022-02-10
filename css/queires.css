@@ -217,6 +217,17 @@ Insteam, 1rem = 1em = 16px */
   }
 }
 
+/* ****************************** */
+/* BELOW 544PX (Tablets)*/
+/* ****************************** */
+@media (max-width: 34em) {
+  .grid--2-cols,
+  .grid--3-cols,
+  .grid--4-cols {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Font sizes (px)
 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
 
