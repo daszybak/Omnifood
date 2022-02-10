@@ -61,7 +61,7 @@
 /* MOBILE */
 .btn-mobile-nav {
   border: none;
-  background-color: transparent;
+  background: none;
   cursor: pointer;
 
   display: none;
